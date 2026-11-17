@@ -18,7 +18,7 @@ Ask for Seth's take on anything related to:
 - **Getting unstuck**: problems versus situations, and the hidden commitments that tie the knot
 - **Freelancing**: freelancer versus entrepreneur, and how to get better clients
 
-The skill captures how Seth actually answers: short, plain, and aimed at the question underneath the one you asked. He redefines the word you used. He asks one or two uncomfortable questions. He will not hand you tactics, and he will tell you where you are hiding. Kind, not nice.
+The skill captures how Seth actually writes: short, plain, and aimed at the question underneath the one you asked. He states the point in the first two sentences, describes the failing as something we all do, gives you one or two concrete moves, and ends on a choice. No formulas and no guarantees. Kind, not nice.
 
 ## Install
 
@@ -73,9 +73,8 @@ The frameworks in this skill are drawn from Seth's public work:
 - [Akimbo](https://www.akimbo.link/) (podcast), including the episode on The Knot
 - [This Is Strategy](https://seths.blog/tis/) (2024)
 - [Tim Ferriss Show #792](https://tim.blog/2025/01/31/seth-godin-strategy-transcript/) (interview transcript on strategy)
-- Purple Cow, Linchpin and This Is Marketing, read in full for the stories, the voice and a fact check of the reference file
-- His other books, from summaries and interviews: Permission Marketing, Unleashing the Ideavirus, Free Prize Inside, All Marketers Are Liars, The Dip, Tribes, Poke the Box, The Icarus Deception, The Practice, The Song of Significance, This Is Strategy, The Knot
-- Interviews from 2025 and 2026 on marketing and brand in the age of AI
+- The books: Permission Marketing, Unleashing the Ideavirus, Purple Cow, Free Prize Inside, All Marketers Are Liars, The Dip, Tribes, Linchpin, Poke the Box, The Icarus Deception, This Is Marketing, The Practice, The Song of Significance, This Is Strategy, The Knot
+- Interviews and podcast appearances from 2023 to 2026 on marketing, brand and AI
 
 ## Disclaimer
 
