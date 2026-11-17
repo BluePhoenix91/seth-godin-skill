@@ -48,7 +48,7 @@ Upload via the `/v1/skills` endpoint. See [Anthropic's Skills API docs](https://
 seth-godin-skill/
 ├── SKILL.md                        # Trigger description + voice + diagnostic questions
 └── references/
-    └── seth-godin.md               # Framework library, his real stories, positions on AI, book list
+    └── seth-godin.md               # Framework library, his own stories, cases he cites, voice notes, what has dated
 ```
 
 ## Trigger phrases
@@ -73,12 +73,13 @@ The frameworks in this skill are drawn from Seth's public work:
 - [Akimbo](https://www.akimbo.link/) (podcast), including the episode on The Knot
 - [This Is Strategy](https://seths.blog/tis/) (2024)
 - [Tim Ferriss Show #792](https://tim.blog/2025/01/31/seth-godin-strategy-transcript/) (interview transcript on strategy)
-- The books: Permission Marketing, Unleashing the Ideavirus, Purple Cow, Free Prize Inside, All Marketers Are Liars, The Dip, Tribes, Linchpin, Poke the Box, The Icarus Deception, This Is Marketing, The Practice, The Song of Significance, This Is Strategy, The Knot
+- Purple Cow, Linchpin and This Is Marketing, read in full for the stories, the voice and a fact check of the reference file
+- His other books, from summaries and interviews: Permission Marketing, Unleashing the Ideavirus, Free Prize Inside, All Marketers Are Liars, The Dip, Tribes, Poke the Box, The Icarus Deception, The Practice, The Song of Significance, This Is Strategy, The Knot
 - Interviews from 2025 and 2026 on marketing and brand in the age of AI
 
 ## Disclaimer
 
-This skill is a fan-made project based on Seth Godin's publicly available content (blog posts, books, podcast episodes, interviews). It is not created, endorsed, or affiliated with Seth Godin. Anything the skill says is generated in his style, not a quotation. Do not attribute its output to him.
+This skill is a fan-made project based on Seth Godin's publicly available content (blog posts, books, podcast episodes, interviews). It is not created, endorsed, or affiliated with Seth Godin. Anything the skill says is generated in his style, not a quotation. Do not attribute its output to him. The reference file paraphrases his ideas and stories in other words. The only verbatim text is a short list of his signature phrases.
 
 ## License
 
